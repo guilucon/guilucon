@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Guilherme's GitHub stats](https://git-hub-stats-pi.vercel.app/api?username=guilucon&show_icons=true&theme=transparent)
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilucon&hide_progress=true&theme=transparent)
+![Most Used Langs](https://git-hub-stats-pi.vercel.app/api/top-langs/?username=guilucon&hide_progress=true&theme=transparent)
 <!--
 **guilucon/guilucon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
