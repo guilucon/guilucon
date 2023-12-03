@@ -5,10 +5,10 @@
 ![Most Used Langs](https://git-hub-stats-pi.vercel.app/api/top-langs/?username=guilucon&hide_progress=true&theme=transparent)
 
 
-
+<div>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-
+</div>
 <!--
 **guilucon/guilucon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
