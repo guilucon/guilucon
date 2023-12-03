@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<div style="display: flex; flex-direction: row;>
-<img height=200 align="center" src="https://git-hub-stats-pi.vercel.app/api?username=guilucon&show_icons=true&theme=transparent" />
-<img height=200 align="center" src="https://git-hub-stats-pi.vercel.app/api/top-langs/?username=guilucon&hide_progress=true&langs_count=12&card_width=320&theme=transparent" />
-</div>
+<a href="#">
+  <img height=200 align="center" src="https://git-hub-stats-pi.vercel.app/api?username=guilucon&show_icons=true&theme=transparent" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://git-hub-stats-pi.vercel.app/api/top-langs/?username=guilucon&hide_progress=true&langs_count=12&card_width=320&theme=transparent" />
+</a>
 
 # 💻 Tech Stack:
 <!--
