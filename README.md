@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
-<a href="#">
+<div>
+
   <img height=200 align="center" src="https://git-hub-stats-pi.vercel.app/api?username=guilucon&show_icons=true&theme=transparent&card_width=320" />
+  <img height=200 align="center" src="https://git-hub-stats-pi.vercel.app/api/top-langs/?username=guilucon&hide_progress=true&langs_count=12&card_width=320&theme=transparent" />
+</div>
+<a href="#">
+  
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://git-hub-stats-pi.vercel.app/api/top-langs/?username=guilucon&hide_progress=true&langs_count=12&card_width=320&theme=transparent" />
+  
 </a>
 
 # 💻 Tech Stack:
