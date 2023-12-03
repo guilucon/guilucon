@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">and I am a FullStack Developer</h3>
+<h3 align="center">I am a Full Stack Developer</h3>
 
 <a href="#">
   <img height=200 align="center" src="https://git-hub-stats-pi.vercel.app/api?username=guilucon&show_icons=true&theme=transparent&card_width=320" />
